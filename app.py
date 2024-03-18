@@ -5,5 +5,5 @@ def addition(a,b,c):
 def substraction(a,b,d):
     return a-b-d 
  
- def division(a,b):
+git  def division(a,b):
     return a/b
